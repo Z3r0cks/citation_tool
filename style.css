@@ -1,0 +1,24 @@
+.wrapper {
+   position: relative;
+   top: 20px;
+   margin: 30px auto;
+   color: azure;
+   font-size: 20px;
+}
+
+html {
+   background-color: #313131;
+   height: 100%;
+}
+
+.message {
+   position: absolute;
+   top: -60px;
+   padding:5px 10px;
+   color: #fff;
+   font-size: 20px;
+   text-align: center;
+   margin-top: 20px;
+   border: solid 1px #dbce5d;
+   border-radius: 25px;
+}
